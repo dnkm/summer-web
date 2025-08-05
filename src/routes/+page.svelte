@@ -11,5 +11,6 @@
 		<li><a href="/parallax">Parallax</a></li>
 		<li><a href="/baseball-scoreboard">Baseball Scoreboard ⚾</a></li>
 		<li><a href="/solar-system">Solar System Animation (animation & absolute)</a></li>
+		<li><a href="/horse-racing">horse racing</a></li>
 	</ul>
 </div>
